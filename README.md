@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/joshpow_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshpow_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joshuapow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuapow" height="30" width="40" /></a>
-<a href="https://instagram.com/josh.pow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josh.pow" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/joshua5683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joshua5683" height="30" width="40" /></a>
 </p>
 
