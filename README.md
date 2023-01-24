@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A passionate full stack developer from Canada</h3>
+<h1 align="center">Hi 👋, I'm Josh (he/him)</h1>
+<h3 align="center">A Passionate Full Stack Developer from Canada 🍁</h3>
 
 - 🔭 I’m currently working on [my personal website](https://github.com/Joshua-Pow/Personal-Website)
 
 - 🌱 I’m currently learning **Next.js and other frontend frameworks!**
 
 - 📫 How to reach me **joshuapow2001@gmail.com**
-
-- 😄 Pronouns: he/him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
