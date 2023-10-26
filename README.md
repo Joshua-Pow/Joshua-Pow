@@ -30,4 +30,4 @@
     <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="react" width="40" height="40"/> </a>       
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-pow&show_icons=true&locale=en&layout=compact" alt="joshua-pow" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-pow&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="joshua-pow" /></p>
